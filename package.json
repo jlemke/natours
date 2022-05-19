@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours website from Advanced CSS and Sass Udemy course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlemke/natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlemke/natours/issues"
+  },
+  "homepage": "https://github.com/jlemke/natours#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
